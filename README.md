@@ -1,5 +1,4 @@
-## Hi there 👋  
-I'm Mayank Sahu
+## I'm Mayank Sahu 😎
 
 I’m a multidisciplinary technologist with experience spanning **DevOps, open-source creative tooling, product design, and entrepreneurship**. I enjoy building practical systems, learning by doing, and working across domains where technology, design, and business intersect.
 
